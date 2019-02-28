@@ -1,0 +1,20 @@
+{
+	"description": "Utility classes for PHP",
+	"name": "redwain/base",
+	"type": "project",
+	"homepage": "https://github.com/redwain/php-base/",
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "Glendon S F Johnson",
+			"email": "gsfjohnson@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"source": "https://github.com/redwain/php-base/"
+	},
+	"require": {
+		"php": ">=7.3",
+	}
+}
