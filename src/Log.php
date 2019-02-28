@@ -42,7 +42,7 @@ class Log
 		self::_log( $logEx, 'start:', $data);
 	}
 
-	static function fxout( LogException $logEx, $data=NULL )
+	static function fxout( LogException $logEx, $data=NULL, $comment=NULL )
 	{
 		if ( self::$debug < 50 ) return;
 
