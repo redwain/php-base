@@ -16,6 +16,8 @@ limitations under the License. */
 
 namespace Redwain\Base;
 
+require_once __DIR__.'/Base.php';
+
 use \Redwain\Base\Log;
 use \Redwain\Base\DebEx;
 

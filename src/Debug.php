@@ -16,7 +16,7 @@ limitations under the License. */
 
 namespace Redwain\Base;
 
-require_once 'BaseProperties.php';
+require_once __DIR__.'/Base.php';
 
 class LogException extends \Exception
 {

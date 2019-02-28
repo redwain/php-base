@@ -25,6 +25,8 @@ limitations under the License. */
 
 namespace Redwain\Base;
 
+require_once __DIR__.'/Base.php';
+
 class Log
 {
 	public static $dest = 'stdout'; // stdout, stderr, file://path/file.ext
