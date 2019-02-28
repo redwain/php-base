@@ -19,7 +19,8 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Redwain\\Base\\": "src"
+			"Redwain\\Base\\": "src",
+			"files": ["src/Base.php"]
 		}
 	}
 }
