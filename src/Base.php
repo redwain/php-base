@@ -14,11 +14,11 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License. */
 
-require_once __DIR__.'/BaseLog.php';
-require_once __DIR__.'/BaseUtil.php';
-require_once __DIR__.'/BaseDebug.php';
-require_once __DIR__.'/BaseProperties.php';
-require_once __DIR__.'/BaseCollection.php';
-require_once __DIR__.'/BaseConfig.php';
+require_once __DIR__.'/Log.php';
+require_once __DIR__.'/Util.php';
+require_once __DIR__.'/Debug.php';
+require_once __DIR__.'/Properties.php';
+require_once __DIR__.'/Collection.php';
+require_once __DIR__.'/Config.php';
 
 ?>
